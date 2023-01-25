@@ -43,11 +43,6 @@ namespace SportsTest
         public string continent;
     }
 
-    [Serializable]
-    class Data
-    {
-        public List<Player> data;
-    }
 
     [Serializable]
     class Query
